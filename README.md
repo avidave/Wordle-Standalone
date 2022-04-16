@@ -21,3 +21,7 @@ In addition to this, the setRandomWord() method uses the aforementioned API call
 4) If the user completes all 6 tries without guessing the chosen word, in which case the chosen word is displayed to the user.
 
 Finally the onExit() method deals with confirming whether the user wants to exit in the case of the user clicking the "X" button displayed on the screen. This button is needed because the window border and alert border have actually been removed from both the main window and alerts that display in the case of winning, losing, or exiting the game. As well, the button used in the alerts have also been fully customized to match the black and white design of the implementation.
+
+## Examples
+
+![image](https://user-images.githubusercontent.com/55364141/163679558-15efe82b-c947-4d3b-b703-c978128a1d4e.png)
