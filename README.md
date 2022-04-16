@@ -1,2 +1,3 @@
 # Wordle-Standalone
 A standalone Wordle implementation using JavaFX libraries.
+This implementation uses API calls to verify the validity or words and generate a random 5 letter word that is the chosen word for the Wordle. To generate the 5 letter random word, the implementation makes use of a [*random-word-api*](https://random-word-api.herokuapp.com/word?length=5) through an HTTPUrlConnection and InputStream. Whether the chosen word is valid, and if the users guesses are valid is verified by the [*dictionary-api*](https://api.dictionaryapi.dev/api/v2/entries/en/). Some valid words that the user enters may be treated as invalid by this API.
