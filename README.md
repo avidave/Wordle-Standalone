@@ -28,3 +28,5 @@ Finally the onExit() method deals with confirming whether the user wants to exit
 ![image](https://user-images.githubusercontent.com/55364141/163679616-f1ba66a6-c1ec-419a-a191-d4625b1e1420.png)
 ![image](https://user-images.githubusercontent.com/55364141/163679673-895d9cd4-e75f-46f6-b491-3ea2e50b109e.png)
 ![image](https://user-images.githubusercontent.com/55364141/163679690-1a93e370-8320-43c3-ada1-ecde69b8120a.png)
+
+This implementation was inspired by the Wordle word game owned by The New York Times.
